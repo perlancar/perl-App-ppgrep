@@ -1,0 +1,4 @@
+0.001   Unreleased
+
+        - First release, spun out of App-ProcUtils, and build using
+          Perinci::CmdLine::Inline to have a small dependency.
